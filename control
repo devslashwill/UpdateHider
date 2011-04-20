@@ -1,0 +1,9 @@
+Package: com.whomer.updatehider
+Name: Update Hider
+Depends: mobilesubstrate
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Hide add updates in the App Store
+Maintainer: Will Homer
+Author: Will Homer
+Section: Tweaks

@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = UpdateHiderSettings;
+		cell = PSLinkCell;
+		detail = "UpdateHiderSettingsController";
+		icon = "UpdateHiderSettings.png";
+		isController = 1;
+		label = "Update Hider";
+	};
+}
